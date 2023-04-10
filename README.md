@@ -13,8 +13,8 @@ We intend to solve these problems by giving an interface to access the database 
 ![Application Screenshots1](./doc_assets/ApplicationScreenshot.png)
 
 ## How does it work?
-It is a Android Native application built using Kotlin and also using XML for layouts. It uses Python for Number plate recognition which was integrated within the application using some chaquopy library. We assumed the data to be nosql as the searches are usually faster than SQL data. 
-Our app helps to reduce the time for identification of stolen vehicles, by allowing the constable to check the details of a suspicious vehicle in his mobile at real time. The constable can either enter the details of the vehicle manually or can take the picture of the number plate or engine number or chassis number, the anpr(automatic number Plate recognition) integrated with the app recognises the number from the clicked photo, which makes the whole process simple and faster. After that, the searching can be done by just a single click. The image recognition part takes around 800-900ms, & the database querying part takes around 200-400ms.
+It is a Android Native application built using Kotlin and also using XML for layouts. It uses Google's ML Kit  for Number plate recognition which was integrated within the application. We assumed the data to be nosql as the searches are usually faster than SQL data. 
+Our app helps to reduce the time for identification of stolen vehicles, by allowing the constable to check the details of a suspicious vehicle in his mobile at real time. The constable can either enter the details of the vehicle manually or can take the picture of the number plate or engine number or chassis number, the OCR(Optical Character Recognition) integrated with the app recognises the number from the clicked photo, which makes the whole process simple and faster. After that, the searching can be done by just a single click. The image recognition part takes around 800-900ms, & the database querying part takes around 200-400ms.
 
 ## Use this application : 
 
