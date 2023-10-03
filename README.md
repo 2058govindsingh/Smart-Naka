@@ -6,7 +6,7 @@ Click [here](https://youtu.be/abfQfUm2WHo) for the video presentation with app d
 There is a database of stolen vehicles in the Vaahan portal maintained by the Ministry of Road Transport and Highways, Government of India. We need to create a mobile app integrating with Vaahan portal through API so that a constable executing naka at the road can check the details of a suspicious vehicle in his mobile at real time.
 The traditional method of Naka is quite slow, because the constable has to manually take all the inputs mostly in pen-paper mode, & then get it checked from the police station.
 ## Proposed Solution:
-We intend to solve these problems by giving an interface to access the database in the form of an Android application. We are using ANPR(Automatic Number Plate Recognition) technique through which we target to provide the constable a very low querying time through their mobile phones. 
+We intend to solve these problems by giving an interface to access the database in the form of an Android application. We are using ANPR(Automatic Number Plate Recognition) technology through which we target to provide the constable a very low querying time through their mobile phones. 
 
 ## Screenshots of the application
 
